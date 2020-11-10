@@ -1,0 +1,18 @@
+h1{
+    font-size: 60px;
+}
+.logout{
+    text-align:center;
+    top: 50%;
+}
+.style{
+    text-decoration: none;
+    font-size: 4rem;
+    
+   
+}
+.style:hover{
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+}
