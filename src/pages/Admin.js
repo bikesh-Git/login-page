@@ -9,7 +9,6 @@ export default class Home extends Component {
 
 
         this.state = {
-            loading: true,
             society: [],
         }
 
@@ -31,9 +30,7 @@ export default class Home extends Component {
         console.log(content);
     }
     render() {
-        if (this.state.loggedIn == false) {
-            return <Redirect to="/" />
-        }
+       
 
         let data = this.state.society.map((item, index) => {
 

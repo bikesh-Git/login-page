@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael12",
+      "last_name": "Lawson",
+      "mobile_no": "2563355663",
+      "avatar": "https://i.picsum.photos/id/1024/1920/1280.jpg?hmac=-PIpG7j_fRwN8Qtfnsc3M8-kC3yb0XYOBfVzlPSuVII"
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "mobile_no": "256586247",
+      "last_name": "Ferguson",
+      "avatar": "https://i.picsum.photos/id/103/2592/1936.jpg?hmac=aC1FT3vX9bCVMIT-KXjHLhP6vImAcsyGCH49vVkAjPQ"
+    },
+    {
+      "avatar": "https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y",
+      "firstname": "bikesh",
+      "lastname": "verma",
+      "email": "binnuverma1997@gmail.com",
+      "id": 10,
+      "first_name": "Bikesh",
+      "last_name": "verma",
+      "mobile_no": "258963147"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "Email": "",
+      "avatar": "https://i.picsum.photos/id/1044/4032/2268.jpg?hmac=BXmoMkaurlzpTLYQupXLipcmI1sFbgT5sIz98Ob5VZE",
+      "firstname": "Varun ",
+      "lastname": "verma",
+      "email": "verma9797@gmail.com",
+      "id": 11,
+      "first_name": "varun",
+      "last_name": "verma"
+    },
+    {
+      "first_name": "deepak",
+      "last_name": "singh",
+      "email": "deepaksingh",
+      "mobile_no": "152364789",
+      "avatar": "https://i.picsum.photos/id/1048/5616/3744.jpg?hmac=N5TZKe4gtmf4hU8xRs-zbS4diYiO009Jni7n50609zk",
+      "id": 12
+    },
+    {
+      "first_name": "rahul",
+      "last_name": "kumar",
+      "email": "rahul_kumar123",
+      "avatar": "https://i.picsum.photos/id/1044/4032/2268.jpg?hmac=BXmoMkaurlzpTLYQupXLipcmI1sFbgT5sIz98Ob5VZE",
+      "mobile_no": "1234567890",
+      "id": 14
+    },
+    {
+      "first_name": "sukhbir",
+      "last_name": "singh",
+      "email": "singh675@facebook.com",
+      "avatar": "https://i.picsum.photos/id/1048/5616/3744.jpg?hmac=N5TZKe4gtmf4hU8xRs-zbS4diYiO009Jni7n50609zk",
+      "mobile_no": "684646545563",
+      "id": 15
+    }
+  ],
+  "ad": {
+    "company": "StatusCode Weekly",
+    "url": "http://statuscode.org/",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+  }
+}

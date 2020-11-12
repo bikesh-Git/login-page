@@ -9,6 +9,10 @@ import Team from './pages/Team'
 import Product from './pages/Product'
 import Messages from './pages/Messages'
 import Reports from './pages/Reports'
+import UserProfile from  './Profile/UserProfile'
+import AddUser from './User/AddUser'
+import UpdateUser from './User/UpdateUser'
+import UserView from './User/UserView'
 
 import './App.css'
 
@@ -28,6 +32,12 @@ export class App extends Component {
           <Route path="/product" component={Product} />
           <Route path="/reports" component={Reports} />
           <Route path="/Support" component={Support} />
+
+          <Route path="/userprofile" component={UserProfile} />
+          <Route path="/user/adduser" component={AddUser} />
+          <Route path="/user/update/:id" component={UpdateUser} />
+          <Route path="/userview/:id" component={UserView} />
+
 
 
         </Switch>

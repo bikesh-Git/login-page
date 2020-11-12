@@ -1,0 +1,9 @@
+form{
+    margin: auto;
+    
+    box-sizing: border-box;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 80px;
+}

@@ -18,7 +18,10 @@ function SideBar() {
                     <FaBars onClick={() => showsiderbar()} />
 
                 </Link>
+                <div className="profile-logout">
+                <Link to="/userprofile" className="logout">User Profile</Link> &nbsp;&nbsp;|
                 <Link to="/logout" className="logout">Logout</Link>
+                </div>
             </div>
             <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
                 <ul className="nav-menu-item" onClick={() => showsiderbar()}>
